@@ -3,7 +3,6 @@
 ## Estructura de Archivos
 
 ```
-root/
 │
 ├── MusicClassificator.exe  
 │   └── Ejecutable de la aplicación  
