@@ -41,9 +41,6 @@
 │   │   ├── HarmonicRatioEmotions.mat  
 │   │   └── … (scripts .mat utilizados para la extracción de cada característica)  
 │
-├── MusicClassificator/  
-│   └── Logs generados por la aplicación  
-│
 └── README.md                           # Este archivo  
 
 ---
