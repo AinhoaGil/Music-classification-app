@@ -2,7 +2,7 @@
 
 ## Estructura de Archivos
 
-```
+
 │
 ├── MusicClassificator.exe  
 │   └── Ejecutable de la aplicación  
